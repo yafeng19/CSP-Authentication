@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633231058 source:f:\algorithm\201909-2\main.cpp
+	<iostream>
+	<vector>
+
