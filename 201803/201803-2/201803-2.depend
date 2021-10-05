@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633434391 source:f:\algorithm\csp\201803\201803-2\main.cpp
+	<iostream>
+	<vector>
+
