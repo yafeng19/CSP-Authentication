@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634823754 source:f:\algorithm\csp\201712\201712-2\main.cpp
+	<iostream>
+	<queue>
+
